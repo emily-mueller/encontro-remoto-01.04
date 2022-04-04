@@ -1,0 +1,4 @@
+Inicio aula git
+Aprendendo configurações com o Git Bash
+Configurando primeiro acesso ao GitHub
+Disponibilizando arquivo no GitHub
